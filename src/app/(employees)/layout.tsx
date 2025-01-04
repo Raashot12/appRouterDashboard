@@ -32,7 +32,7 @@ const navigationData = [
   {
     name: "leave",
     title: "Leave Management",
-    path: "/employees/leave",
+    path: "/employees/leave-management",
   },
   {
     name: "performance",
